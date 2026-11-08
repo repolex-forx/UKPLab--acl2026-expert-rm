@@ -1,0 +1,40 @@
+{
+  "manifest_version": "1.0",
+  "org": "UKPLab",
+  "repo": "acl2026-expert-rm",
+  "versions": [
+    {
+      "commit": "65bcee556c619c3db607df9e96f49da92a04a2ef",
+      "parsed_at": "2026-11-08T11:53:52.575356+00:00",
+      "filetree": "filetree/65bcee556c619c3db607df9e96f49da92a04a2ef.nq.gz",
+      "blobs": [
+        "blob/15e5b3df39016c573ea85e522ff659b74ca68113.nq.gz",
+        "blob/ed3a9d377ba3c30e6eb8b2a35e08e8dc814a0725.nq.gz",
+        "blob/c08a79032592be8f5e7318991b0242323389469d.nq.gz",
+        "blob/daa4859c365585fd7ec65fa3c84abddf5829c32a.nq.gz",
+        "blob/223387fdbbb54870c1b6473064cf894c4e7b8419.nq.gz",
+        "blob/aa1a0ce247fe4af2c3c3f3c4ce7389e2cd6ccb82.nq.gz",
+        "blob/2a54022db9945686a90b75c3bd19e7326ce733e4.nq.gz",
+        "blob/9b3703a912d40f58fb0fb57d20742e53d9fe7671.nq.gz",
+        "blob/0d03bf268c448d14aeb9becbc045bcde4ae6c9b7.nq.gz",
+        "blob/15332e87bcd1bb8730fa06007e1fea856e21e65d.nq.gz",
+        "blob/7bf18a87ce1f1c6cb3990660f49207974ce4c4bb.nq.gz",
+        "blob/d62fc66df4b9acdd5381753fde4173a5775b1ddf.nq.gz",
+        "blob/ea6d05ea8f9d193059c6b06318dbcc5229e7b33a.nq.gz",
+        "blob/c6718de5c5ae59d2c22141a147f5afba41af9cbb.nq.gz",
+        "blob/4da76cce8eaef356b3dfb2f5e32538d9b8c6e6c4.nq.gz",
+        "blob/6f714d634b357a7bc7e5577d9500f59846a4f2f7.nq.gz",
+        "blob/3f016cb7a7ff3c31f315e166ae471b73ba75ac49.nq.gz",
+        "blob/73e2c0e4a6b2749dbc0b2873e0aef03192b88406.nq.gz",
+        "blob/f9f0632ff2125787a23177768e62e3cd6b6aa013.nq.gz",
+        "blob/229edba242bb190698662cdce6bdacde9f0769fe.nq.gz",
+        "blob/2527d114f734bce044e1f1a5df57a061658e1701.nq.gz",
+        "blob/528c925c7c5d8577b572888b38f8dde7888681a1.nq.gz",
+        "blob/f00790d440b8fd81259318f9aae85633ba5c8de5.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}

@@ -1,0 +1,11 @@
+{
+  "org": "UKPLab",
+  "repo": "acl2026-expert-rm",
+  "versions": [
+    {
+      "commit": "65bcee556c619c3db607df9e96f49da92a04a2ef",
+      "tag": "",
+      "parsed_at": "2026-11-08T11:58:17.043497+00:00"
+    }
+  ]
+}

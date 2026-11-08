@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/UKPLab/acl2026-expert-rm/commit/65bcee556c619c3db607df9e96f49da92a04a2ef",
       "git:hexsha": "65bcee556c619c3db607df9e96f49da92a04a2ef",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     }
   ]
 }
